@@ -34,7 +34,6 @@ body {
   /* tudo junto fica assim, conforme abaixo*/
   background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
-
 }
 
 body * {
